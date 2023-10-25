@@ -1,6 +1,8 @@
 import chalk from "chalk";
 import inquirer from "inquirer";
 
+// for the sake of github desktop
+
 // class for player
 class Player {
   name: string;
